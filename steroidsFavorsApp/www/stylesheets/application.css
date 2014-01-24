@@ -10,3 +10,7 @@ input, textarea, [contenteditable] * {
 .content-padded {
   padding: 10px;
 }
+
+.center {
+	margin: 0px, auto;
+}

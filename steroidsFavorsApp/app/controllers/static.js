@@ -1,10 +1,10 @@
- function showCat() {
-    var webView = new steroids.views.WebView("views/static/cat.html");
+ function login() {
+    var webView = new steroids.views.WebView("views/favors/index.html");
     steroids.layers.push(webView);
   }
 
-  function showCatModal() {
-    var modalWebView = new steroids.views.WebView("views/static/catModal.html");
+  function register() {
+    var modalWebView = new steroids.views.WebView("views/static/register.html");
     steroids.modal.show(modalWebView);
   }
   
