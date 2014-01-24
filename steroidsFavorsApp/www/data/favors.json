@@ -1,0 +1,12 @@
+[
+  {
+    "favors_id": 1,
+    "name": "First favors",
+    "description": "This is awesome."
+  },
+  {
+    "favors_id": 2,
+    "name": "Second favors",
+    "description": "This is also okay."
+  }
+]
